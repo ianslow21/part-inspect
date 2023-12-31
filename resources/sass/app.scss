@@ -1,0 +1,12 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=San+Francisco');
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    -webkit-text-size-adjust: 100%; /* Untuk Chrome, Chrome Android, dan Safari */
+    text-size-adjust: 100%; /* Untuk Chrome 54+, Chrome Android 54+, Edge 79+, Firefox */
+}
